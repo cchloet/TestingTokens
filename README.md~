@@ -1,5 +1,5 @@
 # python-voting-exercise
-test
+
 - Create a Python Script that will count a CSV file of
 votes and declare a winner
   - You will be given a file called votes.csv. Each
